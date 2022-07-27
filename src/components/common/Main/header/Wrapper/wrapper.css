@@ -1,0 +1,23 @@
+.carousel{
+    background: transparent;
+}
+.carousel div{
+    height:300px;
+    padding:10px;
+    background: red;
+}
+.carousel h1{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 77px;
+    color: #383838;
+}
+.carousel p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #9C9C9C;
+}

@@ -11,7 +11,8 @@ const { Title } = Typography;
 const Box = styled.div`
   width: 260px;
   height: 400px;
-`;
+  // display:inline-block;
+`
 const img = {
   width: "100%",
   height: "200px",
@@ -54,7 +55,7 @@ export default function Month() {
           </Button>
         </Box>
       ))}
-      
+
       <Carousel responsive={responsive}>
         <div>Item 1</div>
         <div>Item 2</div>
